@@ -16,4 +16,4 @@ export const runSolution = (
   console.log('------------------------')
 }
 
-export default { runSolution }
+export const fsOptions = { encoding: 'UTF-8' }
